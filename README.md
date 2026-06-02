@@ -54,19 +54,19 @@ The dashboard enables stakeholders to:
 
 > **Dashboard 1 — Financial Overview**
 
-![Dashboard Overview](Dashboard Image/image1.png)
+![Dashboard Overview](Dashboard%20Image/image1.png)
 
 > **Dashboard 2 — Transaction Trends & Status Analysis**
 
-![Transaction Trends](Dashboard Image/image2.png)
+![Transaction Trends](Dashboard%20Image/image2.png)
 
 > **Dashboard 3 — Customer & Regional Performance**
 
-![Customer & Regional](Dashboard Image/image3.png)
+![Customer & Regional](Dashboard%20Image/image3.png)
 
 > **Dashboard 4 — Detailed Transaction Drill-Through**
 
-![Drill Through](iDashboard Image/mage4.png)
+![Drill Through](Dashboard%20Image/mage4.png)
 
 ---
 
