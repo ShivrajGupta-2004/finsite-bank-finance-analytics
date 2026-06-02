@@ -66,7 +66,7 @@ The dashboard enables stakeholders to:
 
 > **Dashboard 4 — Detailed Transaction Drill-Through**
 
-![Drill Through](Dashboard%20Image/mage4.png)
+![Drill Through](Dashboard%20Image/image4.png)
 
 ---
 
